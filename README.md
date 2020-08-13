@@ -16,8 +16,8 @@ Primeiros passos
 - Baixe o [Intellij IDE](https://www.jetbrains.com/pt-br/idea/download/).
 - Baixe o [Tomcat 8.5](https://tomcat.apache.org/download-80.cgi).
 - Baixe o [MariaDB](https://mariadb.org/download/).
-- Baixe o [reposit�rio](https://github.com/gustavottc/CRUD-JAVA-WEB/archive/master.zip) da aplica��o.
-- Baixe o [Docker](https://docs.docker.com/get-docker/)
+- Baixe o [repositório](https://github.com/jessicaarq/CRUD-JAVA-SPRING.git) da aplicação.
+- Baixe o [Docker](https://docs.docker.com/get-docker/).
 ### Configuração e instalação
 - Java
   - Instalação:
